@@ -134,9 +134,7 @@ body .Page-1 header .navlinks {
   gap: 15px;
 }
 body .Page-1 header .navlinks a {
-  font-family: "Lato";
-  font-weight: 500;
-  font-style: normal;
+  font-family: "Lato-Bold";
   line-height: 17px;
   font-size: 14px;
   text-transform: uppercase;
